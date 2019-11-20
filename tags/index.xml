@@ -5,10 +5,19 @@
     <description>Recent content in Tags on Canada FAQ - domande e risposte per immigrare in Canada!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 17 Oct 2019 21:15:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 20:58:00 -0700</lastBuildDate>
     
         <atom:link href="https://canadafaq.it/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>personal-finance</title>
+      <link>https://canadafaq.it/tags/personal-finance/</link>
+      <pubDate>Tue, 19 Nov 2019 20:58:00 -0700</pubDate>
+      
+      <guid>https://canadafaq.it/tags/personal-finance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>immigrazione</title>
@@ -83,15 +92,6 @@
     </item>
     
     <item>
-      <title>soldi</title>
-      <link>https://canadafaq.it/tags/soldi/</link>
-      <pubDate>Sun, 01 Sep 2019 18:29:00 -0700</pubDate>
-      
-      <guid>https://canadafaq.it/tags/soldi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>spedizioni</title>
       <link>https://canadafaq.it/tags/spedizioni/</link>
       <pubDate>Sun, 01 Sep 2019 17:47:03 -0700</pubDate>
@@ -101,38 +101,11 @@
     </item>
     
     <item>
-      <title>banca</title>
-      <link>https://canadafaq.it/tags/banca/</link>
-      <pubDate>Sun, 25 Aug 2019 14:00:24 -0700</pubDate>
-      
-      <guid>https://canadafaq.it/tags/banca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>eta</title>
       <link>https://canadafaq.it/tags/eta/</link>
       <pubDate>Sun, 18 Aug 2019 12:15:03 -0700</pubDate>
       
       <guid>https://canadafaq.it/tags/eta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dollari</title>
-      <link>https://canadafaq.it/tags/dollari/</link>
-      <pubDate>Wed, 07 Aug 2019 12:34:34 -0700</pubDate>
-      
-      <guid>https://canadafaq.it/tags/dollari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bonifico</title>
-      <link>https://canadafaq.it/tags/bonifico/</link>
-      <pubDate>Tue, 06 Aug 2019 12:34:34 -0700</pubDate>
-      
-      <guid>https://canadafaq.it/tags/bonifico/</guid>
       <description></description>
     </item>
     
