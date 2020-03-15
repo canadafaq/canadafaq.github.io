@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://canadafaq.it/articoli/</loc>
-    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
+    <loc>https://canadafaq.it/</loc>
+    <lastmod>2020-03-14T15:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://canadafaq.it/</loc>
+    <loc>https://canadafaq.it/faq/</loc>
+    <lastmod>2020-03-14T15:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/tags/lavoro/</loc>
+    <lastmod>2020-03-14T15:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/faq/minimum-wage-in-bc/</loc>
+    <lastmod>2020-03-14T15:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/tags/</loc>
+    <lastmod>2020-03-14T15:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/articoli/</loc>
     <lastmod>2020-03-08T16:00:00-07:00</lastmod>
   </url>
   
@@ -28,18 +48,8 @@
   </url>
   
   <url>
-    <loc>https://canadafaq.it/tags/</loc>
-    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://canadafaq.it/tags/visti/</loc>
     <lastmod>2020-03-08T16:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/</loc>
-    <lastmod>2019-11-19T20:58:00-07:00</lastmod>
   </url>
   
   <url>
@@ -85,11 +95,6 @@
   <url>
     <loc>https://canadafaq.it/faq/richiedere-police-certificates-online/</loc>
     <lastmod>2019-09-22T18:20:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/lavoro/</loc>
-    <lastmod>2019-09-20T21:31:24-07:00</lastmod>
   </url>
   
   <url>

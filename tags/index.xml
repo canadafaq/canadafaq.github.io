@@ -5,10 +5,19 @@
     <description>Recent content in Tags on Canada FAQ - domande e risposte per immigrare in Canada!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 08 Mar 2020 16:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 15:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://canadafaq.it/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lavoro</title>
+      <link>https://canadafaq.it/tags/lavoro/</link>
+      <pubDate>Sat, 14 Mar 2020 15:00:00 -0700</pubDate>
+      
+      <guid>https://canadafaq.it/tags/lavoro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>immigrazione</title>
@@ -61,15 +70,6 @@
       <pubDate>Mon, 07 Oct 2019 22:44:00 -0700</pubDate>
       
       <guid>https://canadafaq.it/tags/turismo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lavoro</title>
-      <link>https://canadafaq.it/tags/lavoro/</link>
-      <pubDate>Fri, 20 Sep 2019 21:31:24 -0700</pubDate>
-      
-      <guid>https://canadafaq.it/tags/lavoro/</guid>
       <description></description>
     </item>
     
