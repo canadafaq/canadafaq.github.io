@@ -5,24 +5,15 @@
     <description>Recent content in Tags on Canada FAQ - domande e risposte per immigrare in Canada!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 11:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://canadafaq.it/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>lavoro</title>
-      <link>https://canadafaq.it/tags/lavoro/</link>
-      <pubDate>Sat, 14 Mar 2020 15:00:00 -0700</pubDate>
-      
-      <guid>https://canadafaq.it/tags/lavoro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>coronavirus</title>
       <link>https://canadafaq.it/tags/coronavirus/</link>
-      <pubDate>Sat, 14 Mar 2020 14:00:24 -0700</pubDate>
+      <pubDate>Sat, 21 Mar 2020 11:00:00 -0700</pubDate>
       
       <guid>https://canadafaq.it/tags/coronavirus/</guid>
       <description></description>
@@ -31,9 +22,18 @@
     <item>
       <title>healthcare</title>
       <link>https://canadafaq.it/tags/healthcare/</link>
-      <pubDate>Sat, 14 Mar 2020 14:00:24 -0700</pubDate>
+      <pubDate>Sat, 21 Mar 2020 11:00:00 -0700</pubDate>
       
       <guid>https://canadafaq.it/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lavoro</title>
+      <link>https://canadafaq.it/tags/lavoro/</link>
+      <pubDate>Sat, 14 Mar 2020 15:00:00 -0700</pubDate>
+      
+      <guid>https://canadafaq.it/tags/lavoro/</guid>
       <description></description>
     </item>
     
