@@ -1,10 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://canadafaq.it/</loc>
-    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
+    <loc>https://canadafaq.it/faq/</loc>
+    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/tags/immigrazione/</loc>
+    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/faq/quanto-tempo-ci-vuole-per-ottenere-visto/</loc>
+    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/tags/</loc>
+    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/tags/visti/</loc>
+    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/tags/whv/</loc>
+    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +43,7 @@
   </url>
   
   <url>
-    <loc>https://canadafaq.it/faq/</loc>
-    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://canadafaq.it/tags/healthcare/</loc>
-    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/</loc>
     <lastmod>2020-03-21T11:00:00-07:00</lastmod>
   </url>
   
@@ -53,22 +68,12 @@
   </url>
   
   <url>
-    <loc>https://canadafaq.it/tags/immigrazione/</loc>
-    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://canadafaq.it/articoli/immigrazione-truffe-itscanadatime/</loc>
     <lastmod>2020-03-08T16:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://canadafaq.it/tags/scam/</loc>
-    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/visti/</loc>
     <lastmod>2020-03-08T16:00:00-07:00</lastmod>
   </url>
   
@@ -84,11 +89,6 @@
   
   <url>
     <loc>https://canadafaq.it/faq/biometrics-dove-andare-al-vac/</loc>
-    <lastmod>2019-10-17T21:15:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/whv/</loc>
     <lastmod>2019-10-17T21:15:00-07:00</lastmod>
   </url>
   
@@ -210,6 +210,11 @@
   <url>
     <loc>https://canadafaq.it/faq/riconoscimento-laurea-in-canada/</loc>
     <lastmod>2019-08-21T00:02:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canadafaq.it/</loc>
+    <lastmod>2019-08-20T13:42:50-07:00</lastmod>
   </url>
   
   <url>
