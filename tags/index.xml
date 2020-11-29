@@ -5,7 +5,7 @@
     <description>Recent content in Tags on Canada FAQ - domande e risposte per immigrare in Canada!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 21 Nov 2020 08:41:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2020 09:26:24 -0700</lastBuildDate>
     
         <atom:link href="https://canadafaq.it/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>immigrazione</title>
       <link>https://canadafaq.it/tags/immigrazione/</link>
-      <pubDate>Sat, 21 Nov 2020 08:41:00 -0800</pubDate>
+      <pubDate>Sun, 22 Nov 2020 09:26:24 -0700</pubDate>
       
       <guid>https://canadafaq.it/tags/immigrazione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal-finance</title>
+      <link>https://canadafaq.it/tags/personal-finance/</link>
+      <pubDate>Sun, 22 Nov 2020 09:26:24 -0700</pubDate>
+      
+      <guid>https://canadafaq.it/tags/personal-finance/</guid>
       <description></description>
     </item>
     
@@ -52,15 +61,6 @@
       <pubDate>Fri, 27 Mar 2020 18:00:00 -0700</pubDate>
       
       <guid>https://canadafaq.it/tags/lavoro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal-finance</title>
-      <link>https://canadafaq.it/tags/personal-finance/</link>
-      <pubDate>Fri, 27 Mar 2020 18:00:00 -0700</pubDate>
-      
-      <guid>https://canadafaq.it/tags/personal-finance/</guid>
       <description></description>
     </item>
     
