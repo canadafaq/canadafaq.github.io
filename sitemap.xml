@@ -1,319 +1,196 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://canadafaq.it/faq/</loc>
-    <lastmod>2020-12-12T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/il-working-holiday-durera-due-anni/</loc>
-    <lastmod>2020-12-12T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/</loc>
-    <lastmod>2020-12-12T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/whv/</loc>
-    <lastmod>2020-12-12T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/contattare-immigrazione-canadese-ircc-web-form/</loc>
-    <lastmod>2020-12-06T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/immigrazione/</loc>
-    <lastmod>2020-12-06T10:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/</loc>
-    <lastmod>2020-11-22T09:26:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/costo-della-vita-vacanza-su-vancouver-island/</loc>
-    <lastmod>2020-11-22T09:26:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/personal-finance/</loc>
-    <lastmod>2020-11-22T09:26:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/come-ottenere-la-cittadinanza-canadese-diventare-cittadino-passaporto/</loc>
-    <lastmod>2020-11-21T08:41:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/eta/</loc>
-    <lastmod>2020-10-18T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/eta-permanent-resident-copr/</loc>
-    <lastmod>2020-10-18T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/permanent-resident/</loc>
-    <lastmod>2020-10-18T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/strade-per-immigrare-in-canada/</loc>
-    <lastmod>2020-04-25T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/visti/</loc>
-    <lastmod>2020-04-25T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/mi-devo-registrare-all-aire/</loc>
-    <lastmod>2020-04-08T21:45:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/lavoro/</loc>
-    <lastmod>2020-03-27T18:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/miglior-banca-per-conto-corrente-in-canada/</loc>
-    <lastmod>2020-03-27T18:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/quanto-tempo-ci-vuole-per-ottenere-visto/</loc>
-    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/coronavirus/</loc>
-    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/credo-di-avere-coronavirus-cosa-faccio/</loc>
-    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/healthcare/</loc>
-    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/minimum-wage-in-bc/</loc>
-    <lastmod>2020-03-14T15:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/coronavirus/</loc>
-    <lastmod>2020-03-14T14:00:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/immigrazione-truffe-itscanadatime/</loc>
-    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/scam/</loc>
-    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/tfsa/</loc>
-    <lastmod>2019-11-19T20:58:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/biometrics-dove-andare-al-vac/</loc>
-    <lastmod>2019-10-17T21:15:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/individuare-annunci-truffa-su-craigslist/</loc>
-    <lastmod>2019-10-07T22:44:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/turismo/</loc>
-    <lastmod>2019-10-07T22:44:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/whv-spiegato/</loc>
-    <lastmod>2019-09-28T11:15:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/pool-working-holiday-aperto-o-chiuso/</loc>
-    <lastmod>2019-09-27T18:54:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/richiedere-police-certificates-online/</loc>
-    <lastmod>2019-09-22T18:20:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/e-facile-trovare-lavoro/</loc>
-    <lastmod>2019-09-20T21:31:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/cibo/</loc>
-    <lastmod>2019-09-20T21:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/ristoranti-italiani-a-vancouver/</loc>
-    <lastmod>2019-09-20T21:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/noc/</loc>
-    <lastmod>2019-09-07T10:53:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/cannabis/</loc>
-    <lastmod>2019-09-04T22:10:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/marijuana-legale-in-canada/</loc>
-    <lastmod>2019-09-04T22:10:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/lmia/</loc>
-    <lastmod>2019-09-04T21:32:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/ielts-o-celpip/</loc>
-    <lastmod>2019-09-02T13:53:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/inglese/</loc>
-    <lastmod>2019-09-02T13:53:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/quanto-vale-un-dollaro-canadese/</loc>
-    <lastmod>2019-09-01T18:29:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/spedizione-internazionale-bagagli/</loc>
-    <lastmod>2019-09-01T17:47:03-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/tags/spedizioni/</loc>
-    <lastmod>2019-09-01T17:47:03-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/come-trovo-un-alloggio-temporaneo/</loc>
-    <lastmod>2019-08-27T19:51:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/cosa-e-permanent-residence/</loc>
-    <lastmod>2019-08-27T19:02:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/serve-il-visto-se-vengo-da-turista/</loc>
-    <lastmod>2019-08-25T15:27:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/carte-di-credito-in-canada/</loc>
-    <lastmod>2019-08-25T14:00:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/quanto-dura-il-whv/</loc>
-    <lastmod>2019-08-25T12:43:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/articoli/perche-ho-aperto-questo-blog/</loc>
-    <lastmod>2019-08-24T14:00:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canadafaq.it/faq/riconoscimento-laurea-in-canada/</loc>
-    <lastmod>2019-08-21T00:02:00-07:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://canadafaq.it/</loc>
-    <lastmod>2019-08-20T13:42:50-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-09T10:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/coronavirus/</loc>
+    <lastmod>2021-03-09T10:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/</loc>
+    <lastmod>2021-03-09T10:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/quarantena-obbligatoria-in-hotel-all-ingresso-in-canada/</loc>
+    <lastmod>2021-03-09T10:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/</loc>
+    <lastmod>2021-03-09T10:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/il-working-holiday-durera-due-anni/</loc>
+    <lastmod>2020-12-12T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/whv/</loc>
+    <lastmod>2020-12-12T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/contattare-immigrazione-canadese-ircc-web-form/</loc>
+    <lastmod>2020-12-06T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/immigrazione/</loc>
+    <lastmod>2020-12-06T10:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/</loc>
+    <lastmod>2020-11-22T09:26:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/costo-della-vita-vacanza-su-vancouver-island/</loc>
+    <lastmod>2020-11-22T09:26:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/personal-finance/</loc>
+    <lastmod>2020-11-22T09:26:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/come-ottenere-la-cittadinanza-canadese-diventare-cittadino-passaporto/</loc>
+    <lastmod>2020-11-21T08:41:00-08:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/eta/</loc>
+    <lastmod>2020-10-18T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/eta-permanent-resident-copr/</loc>
+    <lastmod>2020-10-18T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/permanent-resident/</loc>
+    <lastmod>2020-10-18T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/strade-per-immigrare-in-canada/</loc>
+    <lastmod>2020-04-25T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/visti/</loc>
+    <lastmod>2020-04-25T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/mi-devo-registrare-all-aire/</loc>
+    <lastmod>2020-04-08T21:45:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/lavoro/</loc>
+    <lastmod>2020-03-27T18:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/miglior-banca-per-conto-corrente-in-canada/</loc>
+    <lastmod>2020-03-27T18:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/quanto-tempo-ci-vuole-per-ottenere-visto/</loc>
+    <lastmod>2020-03-22T19:30:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/credo-di-avere-coronavirus-cosa-faccio/</loc>
+    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/healthcare/</loc>
+    <lastmod>2020-03-21T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/minimum-wage-in-bc/</loc>
+    <lastmod>2020-03-14T15:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/coronavirus/</loc>
+    <lastmod>2020-03-14T14:00:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/immigrazione-truffe-itscanadatime/</loc>
+    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/scam/</loc>
+    <lastmod>2020-03-08T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/tfsa/</loc>
+    <lastmod>2019-11-19T20:58:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/biometrics-dove-andare-al-vac/</loc>
+    <lastmod>2019-10-17T21:15:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/individuare-annunci-truffa-su-craigslist/</loc>
+    <lastmod>2019-10-07T22:44:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/turismo/</loc>
+    <lastmod>2019-10-07T22:44:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/whv-spiegato/</loc>
+    <lastmod>2019-09-28T11:15:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/pool-working-holiday-aperto-o-chiuso/</loc>
+    <lastmod>2019-09-27T18:54:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/richiedere-police-certificates-online/</loc>
+    <lastmod>2019-09-22T18:20:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/e-facile-trovare-lavoro/</loc>
+    <lastmod>2019-09-20T21:31:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/cibo/</loc>
+    <lastmod>2019-09-20T21:30:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/ristoranti-italiani-a-vancouver/</loc>
+    <lastmod>2019-09-20T21:30:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/noc/</loc>
+    <lastmod>2019-09-07T10:53:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/cannabis/</loc>
+    <lastmod>2019-09-04T22:10:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/marijuana-legale-in-canada/</loc>
+    <lastmod>2019-09-04T22:10:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/lmia/</loc>
+    <lastmod>2019-09-04T21:32:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/ielts-o-celpip/</loc>
+    <lastmod>2019-09-02T13:53:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/inglese/</loc>
+    <lastmod>2019-09-02T13:53:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/quanto-vale-un-dollaro-canadese/</loc>
+    <lastmod>2019-09-01T18:29:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/spedizione-internazionale-bagagli/</loc>
+    <lastmod>2019-09-01T17:47:03-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/tags/spedizioni/</loc>
+    <lastmod>2019-09-01T17:47:03-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/come-trovo-un-alloggio-temporaneo/</loc>
+    <lastmod>2019-08-27T19:51:40-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/cosa-e-permanent-residence/</loc>
+    <lastmod>2019-08-27T19:02:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/serve-il-visto-se-vengo-da-turista/</loc>
+    <lastmod>2019-08-25T15:27:11-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/carte-di-credito-in-canada/</loc>
+    <lastmod>2019-08-25T14:00:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/quanto-dura-il-whv/</loc>
+    <lastmod>2019-08-25T12:43:00-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/articoli/perche-ho-aperto-questo-blog/</loc>
+    <lastmod>2019-08-24T14:00:24-07:00</lastmod>
+  </url><url>
+    <loc>https://canadafaq.it/faq/riconoscimento-laurea-in-canada/</loc>
+    <lastmod>2019-08-21T00:02:00-07:00</lastmod>
+  </url><url>
     <loc>https://canadafaq.it/info/</loc>
     <lastmod>2019-08-20T13:42:50-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/cosa-e-social-insurance-number/</loc>
     <lastmod>2019-08-19T23:38:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/come-trovare-lavoro-in-canada/</loc>
     <lastmod>2019-08-19T21:50:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/posso-guidare-in-canada-con-la-patente-italiana/</loc>
     <lastmod>2019-08-19T21:23:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/dove-fare-eta/</loc>
     <lastmod>2019-08-18T12:15:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/cosa-e-eta/</loc>
     <lastmod>2019-08-16T12:13:18-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/dove-sono-consolati-italiani-in-canada/</loc>
     <lastmod>2019-08-12T15:40:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/come-trasferire-euro-in-canada/</loc>
     <lastmod>2019-08-07T12:34:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/faq/come-funziona-etransfer/</loc>
     <lastmod>2019-08-06T12:34:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://canadafaq.it/categories/</loc>
   </url>
-  
 </urlset>
